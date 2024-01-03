@@ -25,8 +25,9 @@ El bootcamp de Henry me permitio aprender bastante de diferentes tecnologias per
 
 
 ### No dudes en contactarme!
-facupadilla1904@gmail.com
-3814465466
+Correo: facupadilla1904@gmail.com
+
+Telefono: 3814465466
 
 <!--
 **FacuPadilla/FacuPadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
