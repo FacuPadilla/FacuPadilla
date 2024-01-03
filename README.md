@@ -1,4 +1,4 @@
-### Hola! Min nombre es Facundo jose Padilla 👋
+### Hola! Mi nombre es Facundo jose Padilla 👋
 Tabien conocido como FacuPadilla es GitHub
 ### Quien soy?
 Soy un Programador Fullstack un poco mas orientado al diseno Front-end
@@ -12,15 +12,15 @@ Mi objetivo es adquirir experiencia y habilidades sólidas en programación mien
 
 ### Que tecnologias uso? 
 El bootcamp de Henry me permitio aprender bastante de diferentes tecnologias pero las principales son:
-# JavaScript
-# React.js
-# Node.js
-# Sequelize
-# Express.js
-# PostgreSQL
-# Git
-# Tailwinds
-# Next.js y HTML
+#### JavaScript
+#### React.js
+#### Node.js
+#### Sequelize
+#### Express.js
+#### PostgreSQL
+#### Git
+#### Tailwinds
+#### Next.js y HTML
 
 
 
